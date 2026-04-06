@@ -14,6 +14,13 @@ I currently build **web systems for companies and clients**, focused on function
   <a href="https://instagram.com/gabriellmorganti">
     <img src="https://img.shields.io/badge/Instagram-@GABRIELLMORGANTI-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
+  <a href="mailto:morgntigabriel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-morganti-7ab903280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
@@ -81,25 +88,3 @@ I currently build **web systems for companies and clients**, focused on function
 
 Keep evolving as a developer while contributing to projects that generate real business impact and great user experiences.
 
-
-<div align="center">
-
-### 🤝 **Let's Connect?**
-
-<p>
-<a href="mailto:morgntigabriel@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/gabriel-morganti-7ab903280/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/GabrielMorganti">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
-
----
-
-**⭐ Leave a star on my repositories if you liked my work!**
-
-</div>
